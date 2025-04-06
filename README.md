@@ -1,8 +1,34 @@
 ## 👋 Hello, I'm Deshawn
 
-I'm a **Software Engineering student** at ARU with a passion for building practical solutions through code. I actively **freelance for clients**, take on side projects, and consistently expand my skill set by learning new languages and technologies in my spare time.
+### 👨‍💻 About Me
+I'm a first-year Software Engineering student at ARU with a strong passion for programming and building meaningful, creative solutions. I don’t tie myself to a single language — instead, I enjoy exploring different technologies and learning how they work by creating projects that solve real-world problems (or just bring a little fun!).
 
----
+I’ve worked with clients to develop games, custom tools like converters and slot machines, and also provided support in fixing existing codebase issues. I love diving into projects that challenge me to think differently and push my technical understanding forward.
+
+Currently, I’m working on a large-scale AES-powered smart camera system using Raspberry Pis. It will include features like:
+
+- Device-to-device communication
+
+- Real-time push notifications
+
+- A custom HTTPS server
+
+- Sensor integration (heat + microphone)
+
+- Web and mobile access
+
+This project is also teaching me low-level networking, including TCP communications and performance optimization.
+
+Beyond code, I enjoy helping other students who are new to programming, especially those struggling with concepts I once found difficult myself. I believe in sharing knowledge and lifting others up — it's one of the best parts of the learning journey.
+
+### 🌱 My Goals:
+- Land a placement where I can make a real impact
+
+- Keep refining my code quality and architecture
+
+- Build innovative projects that solve real problems
+
+- Share my skills and collaborate with like-minded creators
 
 ### 💼 What I Do
 
