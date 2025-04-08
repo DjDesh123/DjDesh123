@@ -1,11 +1,11 @@
 ## 👋 Hello, I'm Deshawn
 
 ### 👨‍💻 About Me
-I'm a first-year Software Engineering student at ARU with a strong passion for programming and building meaningful, creative solutions. I don’t tie myself to a single language — instead, I enjoy exploring different technologies and learning how they work by creating projects that solve real-world problems (or just bring a little fun!).
+I'm a first-year Software Engineering student at Anglia Ruskin University with a strong passion for programming and building meaningful, creative solutions. I don’t tie myself to a single language — instead, I enjoy exploring different technologies and learning how they work by creating projects that solve real-world problems (or just bring a little fun!).
 
 I’ve worked with clients to develop games, custom tools like converters and slot machines, and also provided support in fixing existing codebase issues. I love diving into projects that challenge me to think differently and push my technical understanding forward.
 
-Currently, I’m working on a large-scale AES-powered smart camera system using Raspberry Pis. It will include features like:
+Currently, I’m planning on a large-scale AES-encryption smart camera system using Raspberry Pis and Flask for the user interface. It will include features like:
 
 - Device-to-device communication
 
