@@ -15,7 +15,7 @@ My current goal is to presue Postgraduate study in embeddd system engineering an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DjDesh123&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DjDesh123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DjDesh123&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Favorite programming quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
